@@ -22,7 +22,7 @@ project/plugins/project/
 
 # Twitter4j properties
 /src/main/resources/twitter4j.properties
-
+.idea/**
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/dataSources.ids
